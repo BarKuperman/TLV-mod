@@ -1,0 +1,10 @@
+{
+    "id": "com.barku.tlv",
+    "name": "TLV",
+    "description": "A map of Tel Aviv and its surrounding suburbs.",
+    "version": "0.1.0",
+    "author": {
+        "name": "barku"
+    },
+    "main": "index.js"
+}
