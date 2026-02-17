@@ -2,9 +2,7 @@
 
 This mod adds the city of Tel Aviv to the game. 
 
-> **Note:** This mod is currently available for **Windows only**. It is very much a Work in Progress, and the demand data is currently not good at all.
-
-> **Note:** You can try the **mac branch** in this rep for mac and linux support but no promises.
+> **Note:** The demand data is generated using bad data so it isn't very good
 
 ## Installation
 
