@@ -1,6 +1,9 @@
 #!/bin/bash
-SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+# get the current directory
+SCRIPT_DIR="$(pwd)"
 TARGET="$SCRIPT_DIR/../../cities/data/TLV"
+echo "SCRIPT_DIR: $SCRIPT_DIR"
+echo "TARGET: $TARGET"
 
 # Copy data files to cities/data/TLV
 echo "[TLV Mod] Copying data files to cities\data\TLV..."
