@@ -19,7 +19,7 @@ Follow these steps to install the mod:
 
 Because this mod relies on an external script, you will need to follow these steps every time you play:
 
-1. Go to your local mod folder and run the `run_windows` executable file. 
+1. Go to your local mod folder and run the `run_windows`/`run_mac-linux` executable file. 
 2. A terminal window will open. **Do not close this terminal** while you are playing.
 3. Enter the game and press `Ctrl + Shift + R` to initialize the mod. *(You must do this every time you launch the game).*
 
