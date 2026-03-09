@@ -1,16 +1,14 @@
 # Tel Aviv Map Mod
 
-**It is easier and better to install the map using the Map Manager:** https://subwaybuildermodded.com/wiki/maps/map-installation-guide/
+**It is easier and better to install the map using the Railyard:** [Link](https://subwaybuildermodded.com/railyard/)
 
-Then install the map from the latest release of this repo. https://github.com/BarKuperman/TLV-mod/releases/latest
+Or you can also install with the old Map Mangaer by downloading the latest release zip and following the instructions [here](https://subwaybuildermodded.com/wiki/legacy/map-installation-guide/)
 
 -----------------------------------------------------------------------
 
 This mod adds the city of Tel Aviv to the game. 
 
-> **Note:** The demand data is generated using bad data so it isn't very good
-
-## Legacy Installation
+## Legacy Installation, nod recommended
 
 Follow these steps to install the mod:
 
@@ -21,7 +19,7 @@ Follow these steps to install the mod:
 5. Click the **Reload Mods** button.
 6. Close the Game
 
-## How to Play
+## How to Play with the legacy installation
 
 Because this mod relies on an external script, you will need to follow these steps every time you play:
 
